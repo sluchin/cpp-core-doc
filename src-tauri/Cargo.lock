@@ -659,7 +659,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "cpp-core-doc"
+name = "cpp-core-doc-trans"
 version = "0.1.0"
 dependencies = [
  "doc-translator-core",

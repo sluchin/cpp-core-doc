@@ -17,7 +17,7 @@ const ORIGIN = "https://isocpp.github.io";
  * リンクの外). メニューは, 章 (`h1`), 節 (`h2`), 規則 (`h3`) の見出しから作る.
  */
 export const site: SiteProfile = {
-  name: "C++ Core Doc",
+  name: "C++ Core Doc Trans",
   host: "isocpp.github.io",
   // 同じホストの, ほかのプロジェクトのページは開かない
   pathPrefix: "/CppCoreGuidelines/CppCoreGuidelines",

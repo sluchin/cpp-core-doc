@@ -1,8 +1,8 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "C++ Core Doc",
+  "productName": "C++ Core Doc Trans",
   "version": "0.1.0",
-  "identifier": "jp.sluchin.cppcoredoc",
+  "identifier": "jp.doctranslator.cppcoredoctrans",
   "build": {
     "beforeDevCommand": "npm run dev",
     "devUrl": "http://localhost:1420",
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "C++ Core Doc",
+        "title": "C++ Core Doc Trans",
         "width": 1000,
         "height": 800
       }

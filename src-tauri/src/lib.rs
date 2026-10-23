@@ -10,7 +10,7 @@ use doc_translator_core::Site;
 const SITE: Site = Site {
     host: "isocpp.github.io",
     alt_host: None,
-    user_agent: "cpp-core-doc/0.1 (+https://github.com/sluchin/cpp-core-doc)",
+    user_agent: "cpp-core-doc-trans/0.1 (+https://github.com/sluchin/cpp-core-doc-trans)",
 };
 
 /// アプリを起動する.

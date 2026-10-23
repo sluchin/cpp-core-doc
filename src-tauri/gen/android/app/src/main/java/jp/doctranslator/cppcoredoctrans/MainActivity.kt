@@ -1,4 +1,4 @@
-package jp.sluchin.cppcoredoc
+package jp.doctranslator.cppcoredoctrans
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
